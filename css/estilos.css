@@ -1,0 +1,39 @@
+.accordion {
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bi-instagram, .bi-facebook, .bi-whatsapp {font-size: 30px
+}
+
+.bi-laptop, .bi-people, .bi-card-checklist, .bi-chat-left {font-size: 40px;
+    color: rgb(128, 128, 199);     
+}
+
+div.borde {
+    border-radius: 30px;
+    background-color: #bdf3ec;
+    border: #c1d9e9 5px double    
+}
+
+
+
+iframe {width: 100%;}
+
+
+
+
+div.creditos {
+    justify-content: center; 
+    background-color: rgb(189, 186, 186);
+    height: 100%;
+    text-align: center;
+    align-items: center;   
+    }
+
+    
+div.logo { 
+    margin-block: 5% ;
+    
+}
